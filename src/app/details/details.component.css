@@ -1,0 +1,56 @@
+.example-card {
+    min-width: 800px;
+    max-height: auto;
+    margin-top: 50px;
+   
+    margin-left: 100px;
+    
+    
+  }
+  .scroll-div{
+    width: 500px;
+    height: 300px;
+    overflow: hidden;
+    overflow-y: scroll;
+  }
+ .scroll-object{
+ 
+  font-size: 15px;
+  
+ }
+  .example-card2 {
+    max-width: 250px;
+    max-height: 200px;
+    padding: auto;
+   
+    
+  }
+  .abc{
+  color: rgb(83, 200, 239);
+  font-size: 30px;
+  
+}
+  .flex-container {
+    display: flex;
+    margin: auto;
+   
+  }
+  .filter-Button{
+    text-align: right;
+    margin-right: 70px;
+  }
+
+  @media (min-width: auto) and (max-width: auto){
+    #box{
+      display: block;
+      background-color: lightcoral;
+    }
+  }
+  hr{
+    margin-left: 200px;
+    margin-right: 70px;
+  }
+ 
+  mat-icon{
+    color: rgb(83, 200, 239);
+  }
